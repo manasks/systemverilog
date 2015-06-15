@@ -1,0 +1,10 @@
+mips.sv
+mipstb.sv
+mipspkg.sv
+interface.sv
+alu.sv
+aludec.sv
+maindec.sv
+regfile.sv
+temptop.sv
+dmem.sv
